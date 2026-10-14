@@ -9,16 +9,15 @@ I enjoy creating practical solutions for business operations, reporting, workflo
 ## 🎓 Education
 
 **Bachelor of Engineering (B.E.) in Computer Science and Engineering**  
-KLE Technological University, Hubballi, Karnataka, India 
+KLE Technological University, Hubballi, Karnataka, India  
 November 2022 – June 2026
-
 
 ## 🚀 Featured Projects
 
 ### 📅 Meeting Scheduler
 A business meeting management application designed to streamline meeting scheduling, calendar integration, and meeting workflows.
 
-**Technologies:** Google Apps Script, JavaScript, HTML, CSS, Google Calendar API, Google Sheets
+**Technologies:** Google Apps Script, JavaScript, HTML, CSS, Google Calendar API
 
 ### 📊 Enquiry & Sales Management System
 A business automation solution designed to manage enquiries, customer information, tracking activities, and reporting workflows.
@@ -28,7 +27,7 @@ A business automation solution designed to manage enquiries, customer informatio
 ### 🗓️ Leave Management System
 A leave management application designed to streamline employee leave requests, approval workflows, administrative controls, and notifications.
 
-**Technologies:** Google Apps Script, JavaScript, HTML, CSS, Google Sheets
+**Technologies:** Google Apps Script, JavaScript, HTML, CSS
 
 ## 🛠️ Technical Skills
 
@@ -51,7 +50,7 @@ A leave management application designed to streamline employee leave requests, a
 
 ## 🌍 Career Opportunities
 
-Based in India and open to suitable opportunities in United Arab Emirates.
+Based in India and open to suitable opportunities in India and the United Arab Emirates, particularly Dubai.
 
 Interested in contributing to business automation, data analytics, reporting, and software development projects that solve real-world business problems.
 
