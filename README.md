@@ -56,8 +56,8 @@ Interested in contributing to business automation, data analytics, reporting, an
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [attahar6969](https://github.com/attahar6969)
-- **LinkedIn:** [Attahar Faizan](https://www.linkedin.com/in/attahar-faizan30/)
+- **GitHub:** https://github.com/attahar6969
+- **LinkedIn:** https://www.linkedin.com/in/attahar-faizan30/
 
 ---
 
