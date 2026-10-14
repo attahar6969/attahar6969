@@ -9,7 +9,8 @@ I enjoy creating practical solutions for business operations, reporting, workflo
 ## 🎓 Education
 
 **Bachelor of Engineering (B.E.) in Computer Science and Engineering**  
-KLE Technological University, Hubballi, Karnataka, India  
+KLE Technological University, Hubballi, Karnataka, India 
+CGPA 7.26
 November 2022 – June 2026
 
 ## 🚀 Featured Projects
