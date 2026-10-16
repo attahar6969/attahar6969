@@ -50,7 +50,7 @@ A leave management application designed to streamline employee leave requests, a
 
 ## 🌍 Career Opportunities
 
-Based in India and open to suitable opportunities in India and the United Arab Emirates, particularly Dubai.
+Based in India and open to suitable opportunities in India and the United Arab Emirates.
 
 Interested in contributing to business automation, data analytics, reporting, and software development projects that solve real-world business problems.
 
